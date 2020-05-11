@@ -1,6 +1,6 @@
 # CRC-32
 
-jalankan di console / terminal anda 
+Clone lalu jalankan di console / terminal anda 
 
 php crc32.php
 
