@@ -1,3 +1,4 @@
-# repository
+# CRC-32
 
-Selamat Datang
+jalankan di console / terminal anda 
+php crc32.php
