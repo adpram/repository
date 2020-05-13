@@ -1,7 +1,5 @@
 # CRC-32
 
-Clone lalu jalankan di console / terminal anda 
-
-php crc32.php
+Algoritma sederhana untuk hash CRC32
 
 contoh input: f544787fa9
